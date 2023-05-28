@@ -1,0 +1,16 @@
+C:\Users\adm\3D Objects\RailwaySystem\CinemaManagementSystem\CinemaManagementSystem\bin\Debug\CinemaManagementSystem.exe.config
+C:\Users\adm\3D Objects\RailwaySystem\CinemaManagementSystem\CinemaManagementSystem\bin\Debug\CinemaManagementSystem.exe
+C:\Users\adm\3D Objects\RailwaySystem\CinemaManagementSystem\CinemaManagementSystem\bin\Debug\CinemaManagementSystem.pdb
+C:\Users\adm\3D Objects\RailwaySystem\CinemaManagementSystem\CinemaManagementSystem\obj\Debug\CinemaManagementSystem.csproj.AssemblyReference.cache
+C:\Users\adm\3D Objects\RailwaySystem\CinemaManagementSystem\CinemaManagementSystem\obj\Debug\CinemaManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\adm\3D Objects\RailwaySystem\CinemaManagementSystem\CinemaManagementSystem\obj\Debug\CinemaManagementSystem.ADDMOVIE.resources
+C:\Users\adm\3D Objects\RailwaySystem\CinemaManagementSystem\CinemaManagementSystem\obj\Debug\CinemaManagementSystem.customer_register.resources
+C:\Users\adm\3D Objects\RailwaySystem\CinemaManagementSystem\CinemaManagementSystem\obj\Debug\CinemaManagementSystem.login.resources
+C:\Users\adm\3D Objects\RailwaySystem\CinemaManagementSystem\CinemaManagementSystem\obj\Debug\CinemaManagementSystem.Properties.Resources.resources
+C:\Users\adm\3D Objects\RailwaySystem\CinemaManagementSystem\CinemaManagementSystem\obj\Debug\CinemaManagementSystem.csproj.GenerateResource.cache
+C:\Users\adm\3D Objects\RailwaySystem\CinemaManagementSystem\CinemaManagementSystem\obj\Debug\CinemaManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\adm\3D Objects\RailwaySystem\CinemaManagementSystem\CinemaManagementSystem\obj\Debug\CinemaManagementSystem.exe
+C:\Users\adm\3D Objects\RailwaySystem\CinemaManagementSystem\CinemaManagementSystem\obj\Debug\CinemaManagementSystem.pdb
+C:\Users\adm\3D Objects\RailwaySystem\CinemaManagementSystem\CinemaManagementSystem\obj\Debug\CinemaManagementSystem.theater.resources
+C:\Users\adm\3D Objects\RailwaySystem\CinemaManagementSystem\CinemaManagementSystem\obj\Debug\CinemaManagementSystem.Admin.resources
+C:\Users\adm\3D Objects\RailwaySystem\CinemaManagementSystem\CinemaManagementSystem\obj\Debug\CinemaManagementSystem.buymovie.resources
